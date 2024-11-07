@@ -1,0 +1,150 @@
+{
+    "id_dependencia": null,
+    "id_proyecto": null,
+    "descripcion": null,
+    "descripcion_celda": null,
+    "Respuestas": [
+        {
+            "respuesta_Dependencia": null,
+            "celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "respuesta_Adscripcion": null,
+            "celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "respuesta_Año_Inicio_Actividades": null,
+            "celda": null,
+            "Input_Type": "number",
+            "Input_Options": [
+                {
+                    "min": 1950
+                },
+                {
+                    "max": 2024
+                }
+            ]
+        },
+        {
+            "respuesta_RRHH": null,
+            "celda": null,
+            "Input_Type": "number",
+            "Input_Options": [
+                {
+                    "min": 0
+                },
+                {
+                    "max": 100
+                }
+            ]
+        },
+        {
+            "respuesta_Responsable_dependencia": null,
+            "celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "respuesta_Responsable_Llenado": null,
+            "celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Funciones_Atribuciones": null,
+            "Celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Procesos": null,
+            "Celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Programas": null,
+            "Celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Proyectos": null,
+            "Celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "archivo_Organigrama_Funcional_2022": null,
+            "celda": null,
+            "Input_Type": "file",
+            "Input_Options": [
+                {
+                    "accept": [
+                        ".jpg",
+                        ".png"
+                    ]
+                }
+            ]
+        },
+        {
+            "archivo_Organigrama_Funcional_2024": null,
+            "celda": null,
+            "Input_Type": "file",
+            "Input_Options": [
+                {
+                    "accept": [
+                        ".jpg",
+                        ".png"
+                    ]
+                }
+            ]
+        },
+        {
+            "descripción_evolución_estructura_organizacional": null,
+            "celda": null,
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        }
+    ]
+}
