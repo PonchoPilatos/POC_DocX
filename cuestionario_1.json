@@ -1,0 +1,339 @@
+{
+    "id_dependencia": null,
+    "id_proyecto": null,
+    "descripcion": null,
+    "descripcion_celda": null,
+    "Respuestas": [
+        {
+            "respuesta_Dependencia": "Litora himenaeos dui est et porttitor volutpat nulla neque cum elementum nascetur, consequat luctus sem lacus congue cubilia pellentesque vehicula quis. Sociosqu lacus primis dictumst iaculis faucibus in, duis gravida quisque porta cubilia enim accumsan, erat tempor ligula urna nulla. Platea cursus ligula nulla class nec sed purus erat, turpis sem dictumst litora inceptos diam felis nostra viverra, sagittis neque et senectus lacinia nibh ullamcorper.",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Dependencia:",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": false,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "respuesta_Adscripcion": "prueba 2",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Adscripción:",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": false,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "respuesta_Año_Inicio_Actividades": "prueba 3",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Año de inicio de actividades:",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": false,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "number",
+            "Input_Options": [
+                {
+                    "min": 1950
+                },
+                {
+                    "max": 2024
+                }
+            ]
+        },
+        {
+            "respuesta_RRHH": "prueba 4",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Recursos Humanos:",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": false,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "number",
+            "Input_Options": [
+                {
+                    "min": 0
+                },
+                {
+                    "max": 100
+                }
+            ]
+        },
+        {
+            "respuesta_Responsable_dependencia": "prueba 5",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Responsable de la dependencia (cargo):",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": false,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "respuesta_Responsable_Llenado": "prueba 6",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Responsable del llenado (cargo):",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": false,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Funciones_Atribuciones": "prueba en lista",
+            "Celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Funciones y Atribuciones",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": false,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Procesos": null,
+            "Celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Dependencia",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": true,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Programas": null,
+            "Celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Dependencia",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": true,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "Proyectos": "texto de prueba",
+            "Celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Dependencia",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": true,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "archivo_Organigrama_Funcional_2022": "C:\\Users\\PERSONAL\\OneDrive\\Escritorio\\Carpeta INNI\\7 Semestre\\Servicio Social\\DocX\\Proyecto_prueba\\Proyecto_prueba\\Archivos_doc\\Imagenes de prueba\\si.jpg",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Organigrama funcional 2022",
+                "config": {
+                    "position" : "center"
+                    
+                }
+            },
+            "Input_Type": "file",
+            "Input_Options": [
+                {
+                    "accept": [
+                        ".jpg",
+                        ".png"
+                    ]
+                }
+            ]
+        },
+        {
+            "Organigrama_Funcional_2024": "C:\\Users\\PERSONAL\\OneDrive\\Escritorio\\Carpeta INNI\\7 Semestre\\Servicio Social\\DocX\\Proyecto_prueba\\Proyecto_prueba\\Archivos_doc\\Imagenes de prueba\\no.png",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Organigrama funcional 2024",
+                "config": {
+                    "position": "left"
+                }
+            },
+            "Input_Type": "file",
+            "Input_Options": [
+                {
+                    "accept": [
+                        ".jpg",
+                        ".png"
+                    ]
+                }
+            ]
+        },
+        {
+            "Organigrama_Funcional_2024": "C:\\Users\\PERSONAL\\OneDrive\\Escritorio\\ejemplo1.jpg",
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Imagen de prueba",
+                "config": {
+                    "position": "right"
+                }
+            },
+            "Input_Type": "file",
+            "Input_Options": [
+                {
+                    "accept": [
+                        ".jpg",
+                        ".png"
+                    ]
+                }
+            ]
+        },
+        {
+            "descripción_evolución_estructura_organizacional": null,
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Dependencia",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": true,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "prueba_tabla1": null,
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Dependencia",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": true,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "prueba_tabla2": null,
+            "celda": {
+                "titulo": "1. Estructura organizacional",
+                "parrafo": "Dependencia",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": true,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        },
+        {
+            "prueba_tabla2": null,
+            "celda": {
+                "Text_Row": "Contrato",
+                "Text_Cell": "Personal",
+                "config": {
+                    "tipoLetra": "Arial",
+                    "tamaño": 12,
+                    "negrita": true,
+                    "cursiva": false
+                }
+            },
+            "Input_Type": "text",
+            "Input_Options": [
+                {
+                    "maxlength": "250"
+                }
+            ]
+        }
+    ]
+}
+

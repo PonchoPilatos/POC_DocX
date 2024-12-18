@@ -1,0 +1,1198 @@
+{
+    "id_dependencia": null,
+    "id_proyecto": null,
+    "descripcion": null,
+    "descripcion_celda": null,
+    "Respuestas": [
+      {
+        "personal_1": "15",
+        "celda": {
+            "Text_Row": "Mandos superiores",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_1": "12.42",
+        "celda": {
+            "Text_Row": "Mandos superiores",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_1": "148.8",
+        "celda": {
+            "Text_Row": "Mandos superiores",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_2": "17",
+        "celda":{
+            "Text_Row": "Mandos Medios",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_2": "87.8",
+        "celda": {
+            "Text_Row": "Mandos Medios",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_2": "1542.3",
+        "celda": {
+            "Text_Row": "Mandos Medios",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_3": "34",
+        "celda": {
+            "Text_Row": "Técnico administrativo",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_3": "56.7",
+        "celda": {
+            "Text_Row": "Técnico administrativo",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_3": "485.36",
+        "celda": {
+            "Text_Row": "Técnico administrativo",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_4": "65",
+        "celda": {
+            "Text_Row": "Confianza",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_4": "96.7",
+        "celda": {
+            "Text_Row": "Confianza",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_4": "1472.3",
+        "celda": {
+            "Text_Row": "Confianza",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_5": "9",
+        "celda": {
+            "Text_Row": "Administrativo",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_5": "4856.4",
+        "celda": {
+            "Text_Row": "Administrativo",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_5": "345.8",
+        "celda": {
+            "Text_Row": "Administrativo",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_6": "1",
+        "celda": {
+            "Text_Row": "Contrato",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_6": "873.2",
+        "celda": {
+            "Text_Row": "Contrato",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_6": "87.3",
+        "celda": {
+            "Text_Row": "Contrato",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_7": "87",
+        "celda": {
+            "Text_Row": "Becario",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_7": "871.3",
+        "celda": {
+            "Text_Row": "Becario",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_7": "652.9",
+        "celda": {
+            "Text_Row": "Becario",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_8": "2",
+        "celda": {
+            "Text_Row": "Prácticas profesionales",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_8": "741.02",
+        "celda": {
+            "Text_Row": "Prácticas profesionales",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_8": "12.2",
+        "celda": {
+            "Text_Row": "Prácticas profesionales",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_9": "87",
+        "celda": {
+            "Text_Row": "Profesor de carrera",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_9": "875.25",
+        "celda": {
+            "Text_Row": "Profesor de carrera",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_9": "956.14",
+        "celda": {
+            "Text_Row": "Profesor de carrera",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_11": "6",
+        "celda": {
+            "Text_Row": "Técnico académico",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_11": "564.25",
+        "celda": {
+            "Text_Row": "Técnico académico",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_11": "47.2",
+        "celda": {
+            "Text_Row": "Técnico académico",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_12": "69",
+        "celda": {
+            "Text_Row": "Otro (especificar)",
+            "Text_Cell": "Personal",
+            "total_position": "13/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_12": "1.1",
+        "celda": {
+            "Text_Row": "Otro (especificar)",
+            "Text_Cell": "Mensual",
+            "total_position": "13/2",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_12": "9.99",
+        "celda": {
+            "Text_Row": "Otro (especificar)",
+            "Text_Cell": "Anual",
+            "total_position": "13/3",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "personal_13": null,
+        "celda": null,
+        "Input_Type": "number",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 1000
+          }
+        ]
+      },
+      {
+        "mensual_13": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "anual_13": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_federal_2022": "4.2",
+        "celda": {
+            "Text_Row": "Subsidio ordinario",
+            "Text_Cell": "2022",
+            "total_position": "9/1",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_federal_2023": null,
+        "celda": {
+            "Text_Row": "Subsidio ordinario",
+            "Text_Cell": "2024",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_federal_2024": null,
+        "celda": {
+            "Text_Row": "Otro (especificar)",
+            "Text_Cell": "2025",
+            "config": {
+                "tipoLetra": "Arial",
+                "tamaño": 12,
+                "negrita": false,
+                "cursiva": false
+            }
+        },
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_federal_2025": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_estatal_2022": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_estatal_2023": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_estatal_2024": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_subsidio_estatal_2025": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_autogenerado_2022": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_autogenerado_2023": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_autogenerado_2024": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_autogenerado_2025": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fip_2022": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fip_2023": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fip_2024": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fip_2025": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fed_2022": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fed_2023": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fed_2024": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_fed_2025": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Otros_2022": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Otros_2023": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Otros_2024": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Otros_2025": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Total_2022": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Total_2023": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Total_2024": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      },
+      {
+        "input_fondos_fuentes_financiamiento_titulo_Total_2025": null,
+        "celda": null,
+        "Input_Type": "float",
+        "Input_Options": [
+          {
+            "min": 0
+          },
+          {
+            "max": 500000000
+          }
+        ]
+      }
+    ]
+  }

@@ -1,5 +1,4 @@
 ﻿using Newtonsoft.Json.Linq;
-
 class Program
 {
     static void Main()
@@ -36,6 +35,7 @@ class Program
 
     public static void getRespuestas(JArray respuestas)
     {
+
         foreach (JObject respuesta in respuestas)
         {
             // Verificar si 'celda' existe y obtener sus valores
@@ -46,34 +46,57 @@ class Program
                 string parrafo = celda["parrafo"]?.ToString();
                 var config = celda["config"];
 
-                // Extraer configuraciones
-                string tipoLetra = config["tipoLetra"]?.ToString();
-                int tamanio = (int)(config["tamaño"] ?? 0);
-                bool negrita = (bool)(config["negrita"] ?? false);
-                bool cursiva = (bool)(config["cursiva"] ?? false);
-
-                // Extraer el valor de respuesta
-                foreach (var property in respuesta.Properties())
+                // Verificar si 'Input_Type' es 'file'
+                if (respuesta["Input_Type"]?.ToString() == "file")
                 {
-                    // Ignorar claves específicas y aceptar solo valores que no sean null
-                    if (property.Name != "celda" && property.Name != "Input_Type" && property.Name != "Input_Options" && property.Value.Type != JTokenType.Null)
+                    // Mostrar la ruta del archivo
+                    foreach (var property in respuesta.Properties())
                     {
                         string valor = property.Value.ToString();
+                        if (!string.IsNullOrEmpty(valor) && (valor.EndsWith(".jpg") || valor.EndsWith(".png"))) // Verifica que no esté vacío y tenga la extensión correcta
+                        {
+                            //string RutaArchivo = filePath;
+                            string position = config["position"]?.ToString();
+                            Console.WriteLine($"Valor: {valor}");
+                            Console.WriteLine($"Título: {titulo}");
+                            Console.WriteLine($"Párrafo: {parrafo}");
+                            Console.WriteLine($"Posicion: {position}");
+                            Console.WriteLine("-----------------------");
 
-                        // Mostrar resultados solo si el valor no es null
-                        Console.WriteLine($"Valor: {valor}");
-                        Console.WriteLine($"Título: {titulo}");
-                        Console.WriteLine($"Párrafo: {parrafo}");
-                        Console.WriteLine($"Tipo Letra: {tipoLetra}");
-                        Console.WriteLine($"Tamaño: {tamanio}");
-                        Console.WriteLine($"Negrita: {negrita}");
-                        Console.WriteLine($"Cursiva: {cursiva}");
-                        Console.WriteLine("-----------------------");
 
+                        }
+                    }
+                }
+                else
+                {
+                    string tipoLetra = config["tipoLetra"]?.ToString();
+                    int tamanio = (int)(config["tamaño"] ?? 0);
+                    bool negrita = (bool)(config["negrita"] ?? false);
+                    bool cursiva = (bool)(config["cursiva"] ?? false);
+
+                    // Extraer el valor de respuesta
+                    foreach (var property in respuesta.Properties())
+                    {
+                        // Ignorar claves específicas y aceptar solo valores que no sean null
+                        if (property.Name != "celda" && property.Name != "Input_Type" && property.Name != "Input_Options" && property.Value.Type != JTokenType.Null)
+                        {
+                            string valor = property.Value.ToString();
+
+                            // Mostrar resultados solo si el valor no es null
+                            Console.WriteLine($"Valor: {valor}");
+                            Console.WriteLine($"Título: {titulo}");
+                            Console.WriteLine($"Párrafo: {parrafo}");
+                            Console.WriteLine($"Tipo Letra: {tipoLetra}");
+                            Console.WriteLine($"Tamaño: {tamanio}");
+                            Console.WriteLine($"Negrita: {negrita}");
+                            Console.WriteLine($"Cursiva: {cursiva}");
+                            Console.WriteLine("-----------------------");
+
+                        }
                     }
                 }
             }
         }
     }
-}
 
+}
